@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" bor src="/static/img/touxiang.jpg">
+<img width="180px" style="border-radius: 50%" bor src="./static/img/touxiang.jpg">
 
 
 # Node.js技术栈指南
