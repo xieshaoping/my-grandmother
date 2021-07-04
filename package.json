@@ -1,0 +1,12 @@
+{
+  "name": "my-grandmother",
+  "version": "1.0.0",
+  "dependencies": {
+    "docsify-cli": "^4.4.3"
+  },
+  "scripts": {
+    "install": "npm i docsify-cli",
+    "init": "docsify init ../my-grandmother",
+    "start": "docsify serve ../my-grandmother"
+  }
+}
